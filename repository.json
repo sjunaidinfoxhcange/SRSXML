@@ -1,55 +1,27 @@
 {
-	
-
 	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "SYED A File Icon",
+			"details": "https://github.com/SublimeText/AFileIcon",
+			"author": ["ihodev", "DeathAxe"],
+			"labels": ["theme", "file", "icons"],
+			"releases": [
+				{
+					"sublime_text": ">=3114",
+					"tags": true
+				}
+			]
+		},
+		{
+			"details": "https://github.com/khiltd/Abacus",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		}
 
-	"repositories": [
-		"https://packagecontrol.io/packages.json",
-		"https://github.com/buymeasoda/soda-theme",
-		"https://github.com/SublimeText"
-	],
-
-
-	"packages_cache": {
-
-		"https://packagecontrol.io/packages.json": [
-
-			
-			{
-				"name": "SYEDS XMLTOOL",
-				"description": "Multi-line and multiple selection alignment plugin",
-				"author": "wbond",
-				"homepage": "http://wbond.net/sublime_packages/alignment",
-				"releases": [
-					{
-						"version": "2.0.0",
-						"url": "https://packagecontrol.io/Alignment.sublime-package",
-						"date": "2011-09-18 20:12:41"
-					}
-				]
-			}
-		]
-	},
-
-	
-	"dependencies_cache": {
-		"https://packagecontrol.io/packages.json": [
-
-			{
-				"name": "bz2",
-				"load_order": "02",
-				"description": "Python bz2 module",
-				"author": "wbond",
-				"issues": "https://github.com/wbond/package_control/issues",
-				"releases": [
-					{
-						"version": "1.0.0",
-						"url": "https://codeload.github.com/codexns/sublime-bz2/zip/1.0.0",
-						"sublime_text": "*",
-						"platforms": ["*"]
-					}
-				]
-			}
-		]
-	}
+	]
 }
