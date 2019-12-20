@@ -9,7 +9,7 @@
 		
 		{
 			"name": "SYEDS Alignment",
-			"details": "https://github.com/sjunaidinfoxhcange/SRSXML/tree/master/SRSXML_PKG",
+			"details": "https://github.com/wbond/sublime_alignment",
 			"releases": [
 				{
 					"sublime_text": "*",
