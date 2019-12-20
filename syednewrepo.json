@@ -1,0 +1,21 @@
+{
+	
+
+	"schema_version": "3.0.0",
+
+
+	"packages": [
+
+		
+		{
+			"name": "SYEDS Alignment",
+			"details": "https://github.com/wbond/sublime_alignment",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}
