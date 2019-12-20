@@ -2,9 +2,9 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "ZSYEEEEDs REPO",
+			"name": "Syed Junaid",
 			"details": "https://github.com/externl/sublime-z",
-			"labels": ["z", "z jump", "directory", "open directory"],
+			"labels": ["z", "z jump", "syed", "junaid"],
 			"releases": [
 				{
 					"sublime_text": "*",
