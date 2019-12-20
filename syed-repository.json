@@ -13,9 +13,9 @@
 			]
 		},
 		{
-			"name": "Z80 Assembly",
+			"name": "Z80 Assembly JUNAID",
 			"details": "https://github.com/mrcook/Z80Assembly",
-			"labels": ["language syntax", "z80", "assembly"],
+			"labels": ["language syntax", "z80", "Junaid"],
 			"releases": [
 				{
 					"sublime_text": ">=3092",
