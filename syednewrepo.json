@@ -8,8 +8,8 @@
 
 		
 		{
-			"name": "SYEDS Alignment",
-			"details": "https://github.com/wbond/sublime_alignment",
+			"name": "SYEDS SRSXML",
+			"details": "https://github.com/sjunaidinfoxhcange/SRSXML/tree/master/SRSXML_PKG",
 			"releases": [
 				{
 					"sublime_text": "*",
